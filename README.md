@@ -1,8 +1,17 @@
-# React + Vite
+# 📰 NewsApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive News App that fetches the latest news from a public API and displays them to users in a clean layout.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📱 Fully responsive design for all screen sizes
+- 🌐 Fetches real-time news articles from a news API
+- 🧾 Displays headline, image, and description for each news item
+- 🔄 Automatically updates news on page load
+
+## 🛠️ Built With
+
+- HTML
+- CSS (or Tailwind CSS if used)
+- JavaScript (Vanilla or React)
+- News API 
