@@ -13,5 +13,5 @@ A simple and responsive News App that fetches the latest news from a public API 
 
 - HTML
 - CSS (or Tailwind CSS if used)
-- JavaScript (Vanilla or React)
+- JavaScript ( React)
 - News API 
